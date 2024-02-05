@@ -44,7 +44,7 @@ export default function RandomColour() {
                 justifyContent: "center",
             }}
         >
-            <div
+            <div className="but"
                 style={{
                     display: "flex",
                     alignItems: "center",

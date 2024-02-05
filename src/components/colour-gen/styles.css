@@ -1,4 +1,12 @@
 button:hover {
     transform: scale(1.1);
     background-color: aquamarine;
+    cursor: pointer;
+}
+
+.but button{
+    padding: 20px;
+    size: 200px;
+    border-radius: 2cm;
+
 }
